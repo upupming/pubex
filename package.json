@@ -1,0 +1,30 @@
+{
+  "name": "pubex",
+  "version": "0.0.1",
+  "description": "Publish experimental package to npm with just one command",
+  "main": "index.js",
+  "bin": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upupming/pubex.git"
+  },
+  "keywords": [
+    "publish"
+  ],
+  "author": "Yiming Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/upupming/pubex/issues"
+  },
+  "homepage": "https://github.com/upupming/pubex#readme",
+  "devDependencies": {
+    "@types/node": "12",
+    "typescript": "4.5.5"
+  }
+}
