@@ -1,5 +1,8 @@
 # pubex
 
+[![npm (tag)](https://img.shields.io/npm/v/pubex/latest?style=flat-square)](https://www.npmjs.com/package/pubex)
+[![npm](https://img.shields.io/npm/dm/pubex?style=flat-square)](https://www.npmjs.com/package/pubex)
+
 Quickly publish an experimental version of your npm package in one command:
 
 ```bash
